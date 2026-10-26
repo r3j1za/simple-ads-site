@@ -16,7 +16,7 @@ export default function App({
         strategy="afterInteractive"
         async
         crossOrigin="anonymous"
-        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1234567890123456"
+        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9014144589905779"
       />
     </>
   );
